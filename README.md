@@ -1,10 +1,11 @@
-# OneDeploy GitHub Tools
+# G.O.U.D.A
+GitHub Office Unified Deployment Assistant
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Tangui-Gouirand/PPT-ADDIN-MANAGER?label=version&color=blue)
 
 [![Read in English](https://img.shields.io/badge/language-English-blue)](README.en.md)
 
-**OneDeploy GitHub Tools** est un **gestionnaire centralisé** permettant à l’utilisateur de **configurer manuellement les dossiers** GitHub contenant ses compléments Office et exécutables, puis de **télécharger, installer, désinstaller et mettre à jour** ces outils via une interface simple, avec **vérification de signature numérique** intégrée.
+**G.O.U.D.A** est un **gestionnaire centralisé** permettant à l’utilisateur de **configurer manuellement les dossiers** GitHub contenant ses compléments Office et exécutables, puis de **télécharger, installer, désinstaller et mettre à jour** ces outils via une interface simple, avec **vérification de signature numérique** intégrée.
 
 <p align="center">
 <img width="400"   src="https://github.com/user-attachments/assets/fca4ab81-bea1-4f2f-b209-a1997f5400f8" />
