@@ -1,5 +1,6 @@
-# G.O.U.D.A
+# <img width="40" height="40" alt="GOUDA" src="https://github.com/user-attachments/assets/99d4178b-2c58-4212-b067-5bb5cfb83190" /> G.O.U.D.A
 GitHub Office Unified Deployment Assistant
+
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Tangui-Gouirand/PPT-ADDIN-MANAGER?label=version&color=blue)
 
@@ -54,12 +55,13 @@ Tous les fichiers téléchargés depuis GitHub sont :
 
 ## 📚 Roadmap
 
-- [ ] Gestion des compléments Vsto
+- [x] Gestion des compléments Vsto
+- [x] Vérifications de l'authenticité grace à une signature et une clé
 - [ ] Gestion d’exécutables indépendants  
-- [x] Interface de configuration avancée  
-- [x] Détection automatique des dépôts (optionnel)  
 - [x] Intégration proxy automatique
+- [ ] Vérification automatique des noms des compléments 
 - [ ] Support multi-langue
+- [x] Mode Sombre/ Clair 
 
 ---
 
